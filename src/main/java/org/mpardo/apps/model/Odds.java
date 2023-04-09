@@ -1,0 +1,5 @@
+package org.mpardo.apps.model;
+
+public enum Odds {
+    CERTAIN, NEARLY_CERTAIN, VERY_LIKELY, LIKELY, FIFTY_FIFTY, UNLIKELY, VERY_UNLIKELY, NEARLY_IMPOSSIBLE
+}
